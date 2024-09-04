@@ -1,4 +1,4 @@
-*Tic Tac Toe Application*
+**Tic Tac Toe Application**
 
 To create a Tic-Tac-Toe game in Java using AVD, the approach involves designing the game's structure and functionality. The game's layout can be created using a grid-like structure,
 where each cell represents a game square. The game logic can be implemented using variables to track the current player, the game board state, and whether the game is over. When a
